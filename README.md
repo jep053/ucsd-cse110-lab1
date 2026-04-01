@@ -1,1 +1,1 @@
-# ucsd-cse110-lab1
+My favorite language is C++
