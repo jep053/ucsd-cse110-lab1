@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Pictrues of Part2
 
 - [Part2 Screen Shot of add-read-me](./part2_VScode_Screenshot.png)
