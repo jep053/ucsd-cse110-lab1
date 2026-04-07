@@ -1,8 +1,8 @@
 # Pictrues of Part2
 
-- [Part2 Screen Shot of add-read-me]()
+- [Part2 Screen Shot of add-read-me](./part2_VScode_Screenshot.png)
 
-- [Part2 Screen Shot of new-read-me]()
+- [Part2 Screen Shot of new-read-me](./part2_terminal_screenshot.png)
 
 
 # This is JEONG's User page
